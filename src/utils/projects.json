@@ -1,0 +1,58 @@
+[
+    {
+        "id" : 1,
+        "name": "Code Quiz",
+        "imageLink": "../utils/images/Image1.jpg",
+        "deployLink": "https://kulkdeepika.github.io/Code-Quiz/",
+        "repoLink": "https://github.com/kulkdeepika/Code-Quiz"
+    },
+    {
+        "id" : 2,
+        "name": "Weather Dashboard",
+        "imageLink": "../utils/images/Image2.jpg",
+        "deployLink": "https://kulkdeepika.github.io/Weather-Dashboard-with-LocationTracking/",
+        "repoLink": "https://github.com/kulkdeepika/Weather-Dashboard-with-LocationTracking"
+    },
+    {
+        "id" : 3,
+        "name": "Champions League Tracker",
+        "imageLink": "../utils/images/Image3.jpg",
+        "deployLink": "https://kulkdeepika.github.io/ChampionsLeague-Tracker/",
+        "repoLink": "https://github.com/kulkdeepika/ChampionsLeague-Tracker"
+    },
+    {
+        "id" : 4,
+        "name": "Eat-Da-Burger",
+        "imageLink": "../utils/images/Image4.jpg",
+        "deployLink": "https://whispering-temple-02748.herokuapp.com/",
+        "repoLink": "https://github.com/kulkdeepika/Eat-Da-Burger"
+    },
+    {
+        "id" : 5,
+        "name": "Rendezvous",
+        "imageLink": "../utils/images/Image5.jpg",
+        "deployLink": "https://ancient-cliffs-00912.herokuapp.com/",
+        "repoLink": "https://github.com/kulkdeepika/Project2"
+    },
+    {
+        "id" : 6,
+        "name": "Team Profile Generator",
+        "imageLink": "../utils/images/Image6.jpg",
+        "deployLink": "https://github.com/kulkdeepika/Team-Profile-Generator",
+        "repoLink": "https://github.com/kulkdeepika/Team-Profile-Generator"
+    },
+    {
+        "id" : 7,
+        "name": "User Directory",
+        "imageLink": "../utils/images/Image7.jpg",
+        "deployLink": "https://kulkdeepika.github.io/userdirectory/",
+        "repoLink": "https://github.com/kulkdeepika/userdirectory"
+    },
+    {
+        "id" : 8,
+        "name": "TBD",
+        "imageLink": "../utils/images/Image7.jpg",
+        "deployLink": "#",
+        "repoLink": "#"
+    }
+]

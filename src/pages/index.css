@@ -1,0 +1,21 @@
+html,
+body {
+  height: 100%;
+  width: 100%;
+  background-image: url('../utils/images/bg3.jpg');
+  background-size: cover;
+  color: black;
+  margin: 0;
+  padding: 0;
+}
+.portLink{
+    color: black;
+}
+@media screen and (max-width: 768px){
+
+  body {
+      background-image: url("../utils/images/bg6.jpg");
+      background-size: cover;
+  }
+
+}
