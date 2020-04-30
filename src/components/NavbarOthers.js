@@ -16,7 +16,7 @@ function NavbarOthers() {
             <div className="collapse navbar-collapse" id="navbarSupportedContent">
             <ul className="navbar-nav mr-auto ml-auto">
                 <li className="nav-item">
-                    <Link className={location.pathname === "/portfolioreact/" ? "nav-link active" : "nav-link"} to="/portfolioreact/">Home</Link>
+                    <Link className={location.pathname === "/portfolioreact" ? "nav-link active" : "nav-link"} to="/portfolioreact">Home</Link>
                 </li>
                 <li className="nav-item">
                 <Link className={location.pathname === "/portfolioreact/about" ? "nav-link active" : "nav-link"} to="/portfolioreact/about">About</Link>
