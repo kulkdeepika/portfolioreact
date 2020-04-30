@@ -8,7 +8,7 @@ import Contact from "./pages/Contact"
 function App() {
   return (
     <Router>
-        <Route exact path= "/portfolioreact" component={Index}></Route>
+        <Route exact path= "/portfolioreact/" component={Index}></Route>
         <Route exact path= "/portfolioreact/about" component={About}></Route>
         <Route exact path= "/portfolioreact/portfolio" component={Portfolio}></Route>
         <Route exact path= "/portfolioreact/Contact" component={Contact}></Route>
