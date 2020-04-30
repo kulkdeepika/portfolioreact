@@ -13,17 +13,17 @@ function NavbarLanding(){
         
             <div className="collapse navbar-collapse" id="navbarSupportedContent">
             <ul className="navbar-nav mr-auto ml-auto">
-                <li className="nav-item active">
-                    <Link to="/" className= {location.pathname === "/" ? "nav-link active" : "nav-link"}>Home</Link>
+                <li className="nav-item">
+                    <Link to="/portfolioreact" className= {location.pathname === "/portfolioreact" ? "nav-link active" : "nav-link"}>Home</Link>
                 </li>
-                <li className="nav-item active">
-                    <Link to="/about" className={location.pathname === "/about" ? "nav-link active" : "nav-link"} >About</Link>
+                <li className="nav-item">
+                    <Link to="/portfolioreact/about" className={location.pathname === "/portfolioreact/about" ? "nav-link active" : "nav-link"} >About</Link>
                 </li>
-                <li className="nav-item active">
-                    <Link to="/portfolio" className= {location.pathname === "/portfolio" ? "nav-link active" : "nav-link"} >Portfolio</Link>
+                <li className="nav-item">
+                    <Link to="/portfolioreact/portfolio" className= {location.pathname === "/portfolioreact/portfolio" ? "nav-link active" : "nav-link"} >Portfolio</Link>
                 </li>
-                <li className="nav-item active">
-                    <Link to="/contact" className= {location.pathname === "/contact" ? "nav-link active" : "nav-link"} >Contact</Link>
+                <li className="nav-item">
+                    <Link to="/portfolioreact/contact" className= {location.pathname === "/portfolioreact/contact" ? "nav-link active" : "nav-link"} >Contact</Link>
                 </li>
                 </ul>
                 

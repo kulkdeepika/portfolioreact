@@ -16,16 +16,16 @@ function NavbarOthers() {
             <div className="collapse navbar-collapse" id="navbarSupportedContent">
             <ul className="navbar-nav mr-auto ml-auto">
                 <li className="nav-item">
-                    <Link className={location.pathname === "/" ? "nav-link active" : "nav-link"} to="/">Home</Link>
+                    <Link className={location.pathname === "/portfolioreact" ? "nav-link active" : "nav-link"} to="/portfolioreact">Home</Link>
                 </li>
                 <li className="nav-item">
-                <Link className={location.pathname === "/about" ? "nav-link active" : "nav-link"} to="/about">About</Link>
+                <Link className={location.pathname === "/portfolioreact/about" ? "nav-link active" : "nav-link"} to="/portfolioreact/about">About</Link>
                 </li>
                 <li className="nav-item">
-                <Link className={location.pathname === "/portfolio" ? "nav-link active" : "nav-link"} to="/portfolio">Portfolio</Link>
+                <Link className={location.pathname === "/portfolioreact/portfolio" ? "nav-link active" : "nav-link"} to="/portfolioreact/portfolio">Portfolio</Link>
                 </li>
                 <li className="nav-item">
-                    <Link className={location.pathname === "/contact" ? "nav-link active" : "nav-link"} to="/contact">Contact</Link>
+                    <Link className={location.pathname === "/portfolioreact/contact" ? "nav-link active" : "nav-link"} to="/portfolioreact/contact">Contact</Link>
                 </li>
             </ul>
                 

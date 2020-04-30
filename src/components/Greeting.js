@@ -8,7 +8,7 @@ function Greeting(){
             <h1>Hello , I'm Deepika.</h1>
             <h1>I'm a Full-Stack web developer.</h1>
             </div> 
-            <Link className="portLink rounded p-3  mx-auto border border-dark shadow"  to="/portfolio"><strong>My work</strong></Link>
+            <Link className="portLink rounded p-3  mx-auto border border-dark shadow"  to="/portfolioreact/portfolio"><strong>My work</strong></Link>
         </div>
     )
 }
