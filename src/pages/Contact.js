@@ -11,8 +11,10 @@ function Contact(){
                 <NavbarOthers></NavbarOthers>
                 <div className="main-content shadow">
                     <div className="row">
+                        <div class="col col-lg-2 col-sm-0 col-md-0"></div>
                         <ContactCard></ContactCard>
-                        <ContactForm></ContactForm>
+                        {/* <ContactForm></ContactForm> */}
+                        <div class="col col-lg-3 col-sm-0 col-md-0"></div>
                     </div>
                 </div>
             </div>

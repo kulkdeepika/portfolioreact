@@ -50,9 +50,9 @@
     },
     {
         "id" : 8,
-        "name": "TBD",
-        "imageLink": "../utils/images/Image7.jpg",
-        "deployLink": "#",
-        "repoLink": "#"
+        "name": "React Google Book Search",
+        "imageLink": "../utils/images/Image8.jpg",
+        "deployLink": "https://react-googlebooksearchapp.herokuapp.com/",
+        "repoLink": "https://github.com/kulkdeepika/google-book-search-react"
     }
 ]
