@@ -15,11 +15,11 @@ function AboutMeContent(){
                 <div className="col-sm-12">
                     <img id="myphoto" src={require("../utils/images/MyPic.JPG")} alt="MyPicture"/>
                         
-                        <p id="text">My name is Deepika. I graduated with a bachelors degree in Electronics and Communications engineering in the year 2007. My work involved Hardware-software integration testing for aviation systems. 
-                                I am passionate about home organization and enjoy interior decoration. I also enjoy dancing and have participated in several community dance events. 
-                                <br></br>
-                                <br></br>
-                                I would like to explore a career in coding mainly because I find it interesting and challenging. I believe that hard work, persistance, courage and discipline are essential for success; but the most important thing is to push oneself harder and harder, believing that any hurdle can be overcome. </p>
+                        <p id="text">My name is Deepika. I am a Full Stack Web Developer with a passion for problem solving. I build responsive websites, focussed on bringing value to the users. My background as a tester allows me to have a parallel perspective when writing code, which I believe will speed up the review process and hence be more time efficient.
+                        I am passionate about holistic nutrition, home organization and enjoy interior decoration. 
+                        <br></br>
+                        <br></br>
+                        I have the potential to be an asset in a team and a leader because of my virtue of persistence and the ability to take initiative and additional responsibilities. Check out my projects in the portfolio section.  </p>
                 </div>
         </div>
 
